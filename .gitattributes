@@ -1,1 +1,1 @@
-*.ipynb    filter=dropoutput_ipynb.py
+*.ipynb    filter=dropoutput_ipynb
